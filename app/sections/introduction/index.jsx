@@ -52,7 +52,7 @@ export function WelcomeSection() {
 							}}
 						>
 							<p>
-								Hi, I&apos;m <mark>Desmond</mark> a <mark>passionate</mark> software developer.
+								Hi, I&apos;m <mark>Desmond</mark> a <mark>passionate</mark> Data Analyst.
 							</p>
 						</h1>
 
